@@ -1,0 +1,79 @@
+# מגע מרפא — Generative Engine Optimization Map
+
+> A massage therapy business seeking an online presence. The specific niche, style, and unique offerings have not yet been described.
+
+---
+
+## Pages
+
+### בית
+https://-f82f8403.zappy5.app
+גלי את עוצמת המגע המרפא במרכז ספא תאילנדי שיעניק לגופך ולנפשך איזון מושלם. טיפולים מותאמים אישית, אווירה קסומה ורוגע שלא הכרת. קבעי תור עוד היום והתחילי לחיות טוב יותר.
+
+### קורסים
+https://-f82f8403.zappy5.app/courses
+הצטרפי לקורסים מעשיים של מגע מרפא וגלי את סודות הטיפול התאילנדי. מסלולי לימוד מקיפים שיתנו לך כלים מקצועיים לשנות חיים – כולל את חייך. הירשמי עכשיו והפכי למטפלת מוסמכת.
+
+### אודות
+https://-f82f8403.zappy5.app/about
+בואי להכיר את הפילוסופיה שמאחורי מגע מרפא – שילוב עתיק של חכמה תאילנדית עם תשוקה אמיתית לריפוי. נשמח לחלוק איתך את המסע שלנו ואת המחויבות לרווחתך האישית.
+
+### צור קשר
+https://-f82f8403.zappy5.app/contact
+דברי איתנו ונתאים לך את הטיפול המושלם. בין אם את מחפשת להפיג מתחים, ללמוד מקצוע חדש או סתם לשאול – אנחנו כאן בשבילך. השאירי פרטים ונתחיל את הדרך לרוגע אמיתי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f82f8403.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f82f8403.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f82f8403.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f82f8403.zappy5.app/contact
+- Endpoint: https://-f82f8403.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מגע מרפא
+A massage therapy business seeking an online presence. The specific niche, style, and unique offerings have not yet been described.
+
+## Services/Products
+- עיסוי
+
+## Target Audience
+- נשים ונערות שמחפשות מקום ללמוד עיסוי
+
+## Industry
+Massage & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f82f8403.zappy5.app/sitemap.xml
+- Robots: https://-f82f8403.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f82f8403.zappy5.app/llms-full.txt
